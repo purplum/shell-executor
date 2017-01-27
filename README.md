@@ -7,4 +7,4 @@ It provides a clean interface, QoL features and solves several issues such as:
 - handling quote characters in commands
 - providing commands as whole Strings instead of indefinite number of arguments
 
-API available at https://thisismydesign.github.io/shell-executor/javadoc/
+API documentation available at https://thisismydesign.github.io/shell-executor/javadoc/
