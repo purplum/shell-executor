@@ -2,9 +2,11 @@
 
 ### Utility that supports executing shell scripts from Java.
 
-It provides a clean interface, QoL features and solves several issues such as:
-- handling of both output streams (stdout and stderr)
-- handling quote characters in commands
-- providing commands as whole Strings instead of indefinite number of arguments
+##### Features:
+- execute command synchronously or asynchronously
+- execute command as whole String (instead of indefinite number of arguments as ProcessBuilder)
+- return or print output (handles both stdout and stderr output streams)
+- assert correct or incorrect execution based on output
+- handles quote characters
 
 API documentation available at https://thisismydesign.github.io/shell-executor/javadoc/
