@@ -2,7 +2,7 @@
 
 ### Utility that supports executing shell scripts from Java.
 
-##### Features:
+#### Features:
 - execute command synchronously or asynchronously
 - execute command as whole String (instead of indefinite number of arguments as ProcessBuilder)
 - return or print output (handles both stdout and stderr output streams)
